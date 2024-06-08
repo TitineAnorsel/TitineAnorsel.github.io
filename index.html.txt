@@ -1,0 +1,84 @@
+Barbara Blasser, [8 июн. 2024 в 15:11]
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titine Anorsel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1c1c1c;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff69b4;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 10px;
+        }
+        nav a {
+            color: #ff69b4;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            color: #ff0000;
+        }
+        section {
+            padding: 20px;
+            background-color: #2c2c2c;
+        }
+        h2 {
+            color: #ff69b4;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Titine Anorsel</h1>
+        <p>Девушка Сатаны, обладающая способностью господствовать и управлять. Готова захватить мир!</p>
+    </header>
+    <nav>
+        <a href="#about">Обо мне</a>
+        <a href="#projects">Проекты</a>
+        <a href="#contact">Контакты</a>
+    </nav>
+    <section id="about">
+        <h2>Обо мне</h2>
+        <p>Я Titine Anorsel, девушка Сатаны. Моя сила заключается в господстве и управлении. Моя цель - захватить мир и править им вечно.</p>
+    </section>
+    <section id="projects">
+        <h2>Проекты</h2>
+        <p>В этом разделе я рассказываю о своих проектах, направленных на завоевание мира. Будьте готовы к неизбежному!</p>
+    </section>
+    <section id="contact">
+        <h2>Контакты</h2>
+        <p>Если вы хотите связаться со мной, используйте следующие данные:</p>
+        <ul>
+            <li>Email: titine@example.com</li>
+            <li>Телефон: +123 456 7890</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Titine Anorsel. Все права защищены.</p>
+    </footer>
+</body>
+</html>
